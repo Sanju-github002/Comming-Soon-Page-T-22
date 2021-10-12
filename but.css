@@ -109,19 +109,18 @@ body {
 }
 @media screen and (max-width: 500px){
     .bubbly-button {
-      font-size: 1rem;
       text-align: center;
-      
       display:inline-block ;
       /* position: fixed; */
-      height: 50px;
-      
+      height: 40px;
       position: relative;
-      top: 68px;
-      right: 15%;
+      top: 65px;
+     /* right: 8%;  */
     }
 
     .text a{
         font-size: 0.7em;  
+       /* padding: 0.7em 1em;
+        margin: 0 0 15px 8px; */
     }
 }
